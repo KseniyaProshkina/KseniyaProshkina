@@ -3,7 +3,7 @@
 Привет! Меня зовут Ксения <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
 Я начинающий тестировщик. В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
 ## Мои навыки и технологии
-Jira, Qase.io, Swagger, Trello, Miro, SoapUI, Postman, Mockoon, Git, Chrome DevTools, SQL
+SQL, Postman, SoapUI, Swagger, Mockoon, Confluence, Jira, Qase.io, Sitechco, Trello, Miro, Git, Chrome DevTools 
 ## Проекты
 __Проект 1__: Тест функционала "Личные события" в веб-приложении для учителей от Skyeng
 
