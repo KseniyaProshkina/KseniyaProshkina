@@ -31,6 +31,9 @@ __Проект 1__: Тест функционала "Личные события
 
 [Ссылка на мой проект](https://qa-bug-report-ksu.atlassian.net/wiki/spaces/~63f6546ece6f37e5ed9472b0/pages/1441814/1+2) (данные для входа предоставлю по запросу)
 ![Screenshot] (https://github.com/KseniyaProshkina/KseniyaProshkina/blob/main/план%20тест.png)
+![Screenshot2] (https://github.com/KseniyaProshkina/KseniyaProshkina/blob/main/smoke1.png)
+![Screenshot3] (https://github.com/KseniyaProshkina/KseniyaProshkina/blob/main/smoke2.png)
+![Screenshot4] (https://github.com/KseniyaProshkina/KseniyaProshkina/blob/main/smoke3.png)
 
 Вывод:
 
