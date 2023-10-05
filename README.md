@@ -39,6 +39,10 @@ __Проект 1__: Тест функционала "Личные события
 
 ![Chek-list] (https://github.com/KseniyaProshkina/KseniyaProshkina/blob/main/chek-list.png)
 
+![Bug1] (https://github.com/KseniyaProshkina/KseniyaProshkina/blob/main/bug1.png)
+
+![Bug2] (https://github.com/KseniyaProshkina/KseniyaProshkina/blob/main/bug2.png)
+
 Вывод:
 
 * при тестировании функционала "Личные события" в веб-приложении для учителей от Skyeng было выявлено некоторые нерешенные вопросы к требованиям;
