@@ -1,6 +1,6 @@
 # Портфолио: Инженер по тестированию
 ## Обо мне
-Привет! Меня зовут Ксения <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
+Привет! Меня зовут Ксения <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="30px"/></h2>
 Я начинающий тестировщик. В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
 ## Мои навыки и технологии
 SQL, API REST/SOAP ,Postman, Swagger, JSON, SoapUI, WSDL, XML, Mockoon, Confluence, Jira, Qase.io, Sitechco, Trello, Miro, Git, Chrome DevTools 
